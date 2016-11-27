@@ -6,43 +6,56 @@ Our goal is to create template document which will allow post apocalyptical civi
 
 # Index
 ## Math:
-### Concept of numbers - arabic numbers
-### Decimal fractions
-### Metric prefixes.
-### Plus and equals signs. Addition
-### Minus sign. Substraction
-### Concept of length - units
+
+0. Concept of numbers - arabic numbers
+0. Decimal fractions
+0. Metric prefixes.
+0. Plus and equals signs. Addition
+0. Minus sign. Substraction
+0. Concept of length - units
+
 ## Physics:
-### Concept of time
-### Concept of speed
-### Newtonian physics (?)
-### Speed of light
-### Size of an atom
+
+1. Concept of time
+1. Concept of speed
+1. Newtonian physics (?)
+1. Speed of light
+1. Size of an atom
+
 ## Chemistry:
-### Periodic table
+
+2. Periodic table
+
 ## Biology:
-### DNA
-### Genetic algorithm
-### Common drugs
+
+3. DNA
+3. Genetic algorithm
+3. Common drugs
+
 ## Astrology/Geography:
-### Map and shape of the Earth
-### Map of the Solar System
-### Map of the Milky Way
-### Map of the Observable Universe
+
+4. Map and shape of the Earth
+4. Map of the Solar System
+4. Map of the Milky Way
+4. Map of the Observable Universe
+
 ## Technology
-### Forging
-### Casting
-### Paper
-### Printing
-### Gears
-### Steam engine
-### Oil engine
-### Electric engine
-### Rocket engine
-### Telescope
-### Microscope
-### Electronic components
-### Computer
+
+5. Forging
+5. Casting
+5. Paper
+5. Printing
+5. Gears
+5. Steam engine
+5. Oil engine
+5. Electric engine
+5. Rocket engine
+5. Telescope
+5. Microscope
+5. Electronic components
+5. Computer
+
 ## The end
-### Cause of the extinction
+
+6. Cause of the extinction
 
