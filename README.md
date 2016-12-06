@@ -50,12 +50,25 @@ Our goal is to create template document which will allow post apocalyptical civi
 5. Oil engine
 5. Electric engine
 5. Rocket engine
+5. Jet engine
+5. Car
+5. Aeroplane
 5. Telescope
 5. Microscope
 5. Electronic components
 5. Computer
+5. Nuclear power plant 
 
-## The end
+## Warfare
 
-6. Cause of the extinction
+6. Dynamite  
+6. Gun 
+6. Nuclear bomb 
+
+## History
+    
+7. Countries
+7. Wars
+7. Religion
+7. Cause of the extinction
 
