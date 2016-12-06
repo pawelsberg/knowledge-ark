@@ -66,7 +66,7 @@ Our goal is to create template document which will allow post apocalyptical civi
 6. Nuclear bomb 
 
 ## History
-    
+
 7. Countries
 7. Wars
 7. Religion
