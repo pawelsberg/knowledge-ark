@@ -32,7 +32,7 @@ Our goal is to create template document which will allow post apocalyptical civi
 3. Genetic algorithm
 3. Common drugs
 
-## Astrology/Geography:
+## Astronomy/Geography:
 
 4. Map and shape of the Earth
 4. Map of the Solar System
