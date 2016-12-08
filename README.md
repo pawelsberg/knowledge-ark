@@ -41,6 +41,8 @@ Our goal is to create template document which will allow post apocalyptical civi
 
 ## Technology
 
+5. Rope
+5. Clothing
 5. Forging
 5. Casting
 5. Paper
@@ -53,14 +55,18 @@ Our goal is to create template document which will allow post apocalyptical civi
 5. Jet engine
 5. Car
 5. Aeroplane
+5. Freezer
 5. Telescope
 5. Microscope
 5. Electronic components
 5. Computer
 5. Nuclear power plant 
 
-## Warfare
+## Weapons
 
+6. Spear
+6. Slingshot
+6. Bow
 6. Dynamite  
 6. Gun 
 6. Nuclear bomb 
