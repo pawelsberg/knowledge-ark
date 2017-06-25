@@ -7,74 +7,74 @@ Our goal is to create template document which will allow post apocalyptical civi
 # Index
 ## Math:
 
-0. Concept of numbers - arabic numbers
-0. Plus and equals signs - addition
-0. Minus sign. Substraction
-0. Decimal fractions
-0. Metric prefixes.
-0. Concept of length - units
+1. Concept of numbers - arabic numbers
+2. Plus and equals signs - addition
+3. Minus sign. Substraction
+4. Decimal fractions
+5. Metric prefixes.
+6. Concept of length - units
 
 ## Physics:
 
 1. Concept of time
-1. Concept of speed
-1. Newtonian physics (?)
-1. Speed of light
-1. Size of an atom
+2. Concept of speed
+3. Newtonian physics (?)
+4. Speed of light
+5. Size of an atom
 
 ## Chemistry:
 
-2. Periodic table
+1. Periodic table
 
 ## Biology:
 
-3. DNA
-3. Genetic algorithm
+1. DNA
+2. Genetic algorithm
 3. Common drugs
 
 ## Astronomy/Geography:
 
-4. Map and shape of the Earth
-4. Map of the Solar System
-4. Map of the Milky Way
+1. Map and shape of the Earth
+2. Map of the Solar System
+3. Map of the Milky Way
 4. Map of the Observable Universe
 
 ## Technology
 
-5. Rope
-5. Clothing
-5. Forging
-5. Casting
+1. Rope
+2. Clothing
+3. Forging
+4. Casting
 5. Paper
-5. Printing
-5. Gears
-5. Steam engine
-5. Oil engine
-5. Electric engine
-5. Rocket engine
-5. Jet engine
-5. Car
-5. Aeroplane
-5. Freezer
-5. Telescope
-5. Microscope
-5. Electronic components
-5. Computer
-5. Nuclear power plant 
+6. Printing
+7. Gears
+8. Steam engine
+9. Oil engine
+10. Electric engine
+11. Rocket engine
+12. Jet engine
+13. Car
+14. Aeroplane
+15. Freezer
+16. Telescope
+17. Microscope
+18. Electronic components
+19. Computer
+20. Nuclear power plant 
 
 ## Weapons
 
-6. Spear
-6. Slingshot
-6. Bow
-6. Dynamite  
-6. Gun 
+1. Spear
+2. Slingshot
+3. Bow
+4. Dynamite  
+5. Gun 
 6. Nuclear bomb 
 
 ## History
 
-7. Countries
-7. Wars
-7. Religion
-7. Cause of the extinction
+1. Countries
+2. Wars
+3. Religion
+4. Cause of the extinction
 
