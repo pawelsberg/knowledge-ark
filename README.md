@@ -48,19 +48,20 @@ Our goal is to create template document which will allow post apocalyptical civi
 5. Paper
 6. Printing
 7. Gears
-8. Steam engine
-9. Oil engine
-10. Electric engine
-11. Rocket engine
-12. Jet engine
-13. Car
-14. Aeroplane
-15. Freezer
-16. Telescope
-17. Microscope
-18. Electronic components
-19. Computer
-20. Nuclear power plant 
+8. Pendulum clock
+9. Steam engine
+10. Oil engine
+11. Electric engine
+12. Rocket engine
+13. Jet engine
+14. Car
+15. Aeroplane
+16. Freezer
+17. Telescope
+18. Microscope
+19. Electronic components
+20. Computer
+21. Nuclear power plant 
 
 ## Weapons
 
