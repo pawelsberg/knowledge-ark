@@ -62,7 +62,7 @@ Our goal is to create template document which will allow post apocalyptical civi
 19. Computer
 20. Nuclear power plant 
 
-## Weapons
+## Weapons
 
 1. Spear
 2. Slingshot
