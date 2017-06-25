@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="113.6601"
-     inkscape:cy="1068.1221"
+     inkscape:cx="114.43295"
+     inkscape:cy="704.46719"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2565,7 +2565,7 @@
          id="tspan2421"
          x="60.9375"
          y="69.387093"
-         style="stroke-width:0.9375"></tspan></text>
+         style="stroke-width:0.9375" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3049,6 +3049,61 @@
          x="95.010719"
          y="352.72684"
          id="tspan3406-9-0-1-1-8"
+         style="font-size:15px;line-height:1.25;stroke-width:1px">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="19.064892"
+       y="419.39285"
+       id="text3350-6-9-3-7-7"><tspan
+         sodipodi:role="line"
+         x="19.064892"
+         y="419.39285"
+         id="tspan3406-91-6-1-1-0"
+         style="font-size:15px;line-height:1.25;stroke-width:1px">6423454</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="102.02176"
+       y="418.16031"
+       id="text3350-0-1-08-6-1-5"><tspan
+         sodipodi:role="line"
+         x="102.02176"
+         y="418.16031"
+         id="tspan3406-3-2-97-9-8-6"
+         style="font-size:15px;line-height:1.25;stroke-width:1px">9324213</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="186.7775"
+       y="417.21204"
+       id="text3350-0-4-1-6-5-2-3"><tspan
+         sodipodi:role="line"
+         x="186.7775"
+         y="417.21204"
+         id="tspan3406-3-9-6-3-3-5-2"
+         style="font-size:15px;line-height:1.25;stroke-width:1px">15747667</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="87.344177"
+       y="417.73557"
+       id="text3350-2-1-8-77-0-0"><tspan
+         sodipodi:role="line"
+         x="87.344177"
+         y="417.73557"
+         id="tspan3406-34-2-0-2-4-4"
+         style="font-size:15px;line-height:1.25;stroke-width:1px">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="172.90535"
+       y="416.78854"
+       id="text3350-5-3-0-8-8-0"><tspan
+         sodipodi:role="line"
+         x="172.90535"
+         y="416.78854"
+         id="tspan3406-9-0-1-1-8-9"
          style="font-size:15px;line-height:1.25;stroke-width:1px">=</tspan></text>
   </g>
 </svg>
