@@ -8,7 +8,7 @@ Our goal is to create template document which will allow post apocalyptical civi
 ## Math:
 
 0. Concept of numbers - arabic numbers
-0. Plus and equals signs. Addition
+0. Plus and equals signs - addition
 0. Minus sign. Substraction
 0. Decimal fractions
 0. Metric prefixes.
