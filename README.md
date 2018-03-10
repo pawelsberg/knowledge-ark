@@ -4,7 +4,7 @@ How to pass knowledge to the postapocalyptical civilisation?
 # Answer: Noah's Ark for knowledge
 Our goal is to create template document which will allow post apocalyptical civilisation continue from where we ended. We assume that no language as we know will be known after apocalypse. Result of our work can be engraved on the stone or be broadcasted via radio. This repository will consist of list of SVG files that will represent each page of the document. Recomended editor is Inkscape. Collaborators are welcome. 
 
-### Document writing progress
+### Topics coverage progress
 ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 12% (6/50)
 
 # Index
