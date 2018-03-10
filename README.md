@@ -83,7 +83,7 @@ Our goal is to create template document which will allow post apocalyptical civi
 4. Cause of the extinction
 
 # Other documents for this project
-[LICENSE](LICENSE.md) A public domain license.
+[LICENSE](LICENSE) A public domain license.
 
 [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) Code of conduct.
 
