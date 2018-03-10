@@ -1,4 +1,4 @@
-# Knowledge Ark Question
+# Question
 How to pass knowledge to the postapocalyptical civilisation?
 
 # Noah's Ark for knowledge
