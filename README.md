@@ -10,7 +10,12 @@ Our goal is to create template document which will allow post apocalyptical civi
 # Index
 ## Math:
 
-1. Concept of numbers - arabic numbers
+in our:
+[Code of Conduct](CODE_OF_CONDUCT.md)
+
+
+
+1. [Concept of numbers - arabic numbers](Math/1.%20Concept%20of%20numbers%20-%20arabic%20numbers.svg)
 2. Plus and equals signs - addition
 3. Minus sign. Substraction
 4. Decimal fractions
