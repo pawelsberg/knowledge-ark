@@ -82,3 +82,8 @@ Our goal is to create template document which will allow post apocalyptical civi
 3. Religion
 4. Cause of the extinction
 
+# Other documents for this project
+[LICENSE](LICENSE.md) A public domain license.
+[CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) Code of conduct.
+[CONTRIBUTING](CONTRIBUTING.md) Short contributing recommendations.
+
