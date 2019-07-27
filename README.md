@@ -66,15 +66,6 @@ Our goal is to create template document which will allow post apocalyptical civi
 20. Computer
 21. Nuclear power plant 
 
-## Weapons
-
-1. Spear
-2. Slingshot
-3. Bow
-4. Dynamite  
-5. Gun 
-6. Nuclear bomb 
-
 ## History
 
 1. Countries
