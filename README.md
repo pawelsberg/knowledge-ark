@@ -48,28 +48,29 @@ Our goal is to create template document which will allow post apocalyptical civi
 1. Stone axe
 2. Stone knife
 3. Rope
-4. Fire
-5. How to make a perfectly flat surface
-6. Clothing
-7. Forging
-8. Casting
-9. Paper
-10. Printing
-11. Gears
-12. Pendulum clock
-13. Steam engine
-14. Oil engine
-15. Electric engine
-16. Rocket engine
-17. Jet engine
-18. Car
-19. Aeroplane
-20. Freezer
-21. Telescope
-22. Microscope
-23. Electronic components
-24. Computer
-25. Nuclear power plant 
+4. Shelter
+5. Fire
+6. How to make a perfectly flat surface
+7. Clothing
+8. Forging
+9. Casting
+10. Paper
+11. Printing
+12. Gears
+13. Pendulum clock
+14. Steam engine
+15. Oil engine
+16. Electric engine
+17. Rocket engine
+18. Jet engine
+19. Car
+20. Aeroplane
+21. Freezer
+22. Telescope
+23. Microscope
+24. Electronic components
+25. Computer
+26. Nuclear power plant 
 
 ## History
 
