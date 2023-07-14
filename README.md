@@ -66,11 +66,12 @@ Our goal is to create template document which will allow post apocalyptical civi
 19. Car
 20. Aeroplane
 21. Freezer
-22. Telescope
-23. Microscope
-24. Electronic components
-25. Computer
-26. Nuclear power plant 
+22. Lens
+23. Telescope
+24. Microscope
+25. Electronic components
+26. Computer
+27. Nuclear power plant 
 
 ## History
 
