@@ -21,9 +21,10 @@ Our goal is to create template document which will allow post apocalyptical civi
 
 1. Concept of time
 2. Concept of speed
-3. Newtonian physics (?)
-4. Speed of light
-5. Size of an atom
+3. Concept of weight
+4. Newtonian physics (?)
+5. Speed of light
+6. Size of an atom
 
 ## Chemistry:
 
