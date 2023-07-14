@@ -45,10 +45,10 @@ Our goal is to create template document which will allow post apocalyptical civi
 ## Technology
 
 1. Rope
-2. Clothing
-3. Forging
-4. Casting
-5. How to make a perfectly flat surface
+2. How to make a perfectly flat surface
+3. Clothing
+4. Forging
+5. Casting
 6. Paper
 7. Printing
 8. Gears
@@ -65,7 +65,7 @@ Our goal is to create template document which will allow post apocalyptical civi
 19. Microscope
 20. Electronic components
 21. Computer
-22. Nuclear power plant 
+22. Nuclear power plant 
 
 ## History
 
