@@ -56,7 +56,7 @@ Our goal is to create template document which will allow post apocalyptical civi
 7. How to make a perfectly flat surface
 8. Clothing
 9. Bronze smelting
-10. Iron smelting
+10. Iron smelting using bellows
 11. Forging
 12. Casting
 13. Paper
