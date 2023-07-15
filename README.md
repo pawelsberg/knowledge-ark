@@ -78,21 +78,24 @@ Our goal is to create template document which will allow post apocalyptical civi
 29. Gears
 30. Pendulum clock
 31. Hourglass
-32. Steam engine
-33. Oil engine
-34. Electric engine
-35. Rocket engine
-36. Jet engine
-37. Spring
-38. Car
-39. Aeroplane
-40. Freezer
-41. Lens
-42. Telescope
-43. Microscope
-44. Electronic components
-45. Computer
-46. Nuclear power plant 
+32. Magnet
+33. Electromagnet
+34. Electric components
+35. Chemical battery
+36. Steam engine
+37. Oil engine
+38. Electric engine
+39. Rocket engine
+40. Jet engine
+41. Spring
+42. Car
+43. Aeroplane
+44. Freezer
+45. Lens
+46. Telescope
+47. Microscope
+48. Computer
+49. Nuclear power plant 
 
 ## History
 
