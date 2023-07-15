@@ -66,25 +66,28 @@ Our goal is to create template document which will allow post apocalyptical civi
 17. Iron smelting using bellows
 18. Forging
 19. Casting
-20. Paper
-21. Printing
-22. Screw
-23. Gears
-24. Pendulum clock
-25. Steam engine
-26. Oil engine
-27. Electric engine
-28. Rocket engine
-29. Jet engine
-30. Car
-31. Aeroplane
-32. Freezer
-33. Lens
-34. Telescope
-35. Microscope
-36. Electronic components
-37. Computer
-38. Nuclear power plant 
+20. Glass
+21. Blowing glass
+22. Floating molten glass
+23. Paper
+24. Printing
+25. Screw
+26. Gears
+27. Pendulum clock
+28. Steam engine
+29. Oil engine
+30. Electric engine
+31. Rocket engine
+32. Jet engine
+33. Car
+34. Aeroplane
+35. Freezer
+36. Lens
+37. Telescope
+38. Microscope
+39. Electronic components
+40. Computer
+41. Nuclear power plant 
 
 ## History
 
