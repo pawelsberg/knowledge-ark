@@ -54,8 +54,8 @@ Our goal is to create template document which will allow post apocalyptical civi
 5. Fire
 6. Ceramics
 7. Wheel
-8. "Rope engine"
-9. "Pedal engine"
+8. Rope muscle powered engine
+9. Pedal muscle powered engine
 10. Waterwheel engine
 11. How to make a perfectly flat surface
 12. Lathe
