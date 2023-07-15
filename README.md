@@ -56,34 +56,35 @@ Our goal is to create template document which will allow post apocalyptical civi
 7. Wheel
 8. "Rope engine"
 9. "Pedal engine"
-10. How to make a perfectly flat surface
-11. Lathe
-12. Silk
-13. Wool
-14. Clothing
-15. Bronze smelting
-16. Iron smelting using bellows
-17. Forging
-18. Casting
-19. Paper
-20. Printing
-21. Screw
-22. Gears
-23. Pendulum clock
-24. Steam engine
-25. Oil engine
-26. Electric engine
-27. Rocket engine
-28. Jet engine
-29. Car
-30. Aeroplane
-31. Freezer
-32. Lens
-33. Telescope
-34. Microscope
-35. Electronic components
-36. Computer
-37. Nuclear power plant 
+10. Waterwheel engine
+11. How to make a perfectly flat surface
+12. Lathe
+13. Silk
+14. Wool
+15. Clothing
+16. Bronze smelting
+17. Iron smelting using bellows
+18. Forging
+19. Casting
+20. Paper
+21. Printing
+22. Screw
+23. Gears
+24. Pendulum clock
+25. Steam engine
+26. Oil engine
+27. Electric engine
+28. Rocket engine
+29. Jet engine
+30. Car
+31. Aeroplane
+32. Freezer
+33. Lens
+34. Telescope
+35. Microscope
+36. Electronic components
+37. Computer
+38. Nuclear power plant 
 
 ## History
 
