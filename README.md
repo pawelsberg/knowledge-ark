@@ -71,25 +71,27 @@ Our goal is to create template document which will allow post apocalyptical civi
 22. Blowing glass
 23. Floating molten glass
 24. Paper
-25. Printing
-26. Screw
-27. Gears
-28. Pendulum clock
-29. Hourglass
-30. Steam engine
-31. Oil engine
-32. Electric engine
-33. Rocket engine
-34. Jet engine
-35. Car
-36. Aeroplane
-37. Freezer
-38. Lens
-39. Telescope
-40. Microscope
-41. Electronic components
-42. Computer
-43. Nuclear power plant 
+25. Brush
+26. Pencil
+27. Printing
+28. Screw
+29. Gears
+30. Pendulum clock
+31. Hourglass
+32. Steam engine
+33. Oil engine
+34. Electric engine
+35. Rocket engine
+36. Jet engine
+37. Car
+38. Aeroplane
+39. Freezer
+40. Lens
+41. Telescope
+42. Microscope
+43. Electronic components
+44. Computer
+45. Nuclear power plant 
 
 ## History
 
