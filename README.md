@@ -18,6 +18,7 @@ Our goal is to create template document which will allow post apocalyptical civi
 6. [Decimal fractions](Math/6.%20Decimal%20fractions.svg)
 7. [Metric prefixes](Math/7.%20Metric%20prefixes.svg)
 8. [Concept of length - units](Math/8.%20Concept%20of%20length%20-%20units.svg)
+9. Orthographic projection - human + other examples
 
 ## Physics:
 
