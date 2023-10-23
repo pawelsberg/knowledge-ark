@@ -2,29 +2,29 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a plesant experience.
+In the interest of fostering an open and welcoming environment, we, as contributors and maintainers, pledge to make participation in our project and our community a pleasant experience for everyone.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment include:
+Examples of behavior that contribute to a positive environment include:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* Using welcoming and inclusive language.
+* Being respectful of differing viewpoints and experiences.
+* Gracefully accepting constructive criticism.
+* Focusing on what is best for the community.
+* Showing empathy towards other community members.
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments.
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
+* Using sexualized language or imagery, or making unwelcome sexual advances.
+* Trolling or making insulting/derogatory comments.
+* Publishing others' private information, such as a physical or electronic address, without explicit permission.
 
 ## Our Responsibilities
 
-Project maintainers are expected to take appropriate corrective action in response to any instances of unacceptable behavior.
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-Project maintainers have the right to remove contributions or to ban temporarily or permanently any contributor.
+Project maintainers have the right to remove, edit, or reject any contributions that are not aligned with this Code of Conduct, or to ban temporarily or permanently any contributor for behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 
@@ -32,7 +32,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Unacceptable behavior may be reported by contacting the project team at malo@fajne.to. Although the project team is NOT obligated to maintain confidentiality with regard to the reporter of an incident.
+Unacceptable behavior may be reported by contacting the project team at malo@fajne.to. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is *not* obligated to maintain confidentiality with regard to the reporter of an incident.
 
 ## Attribution
 
