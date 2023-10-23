@@ -1,10 +1,11 @@
 ## Contributing
 Thank you very much for contribution!
 
-Please put SVG files in the folder of the chapter. Name of the folder of the chapter should have removed all special characters.
-So for example for chapter "Astronomy/Geography" folder should have a name "AstronomyGeography".
+### Guidelines
+Place SVG files in the appropriate chapter folder.
 
-Feel free to update [README](README.md) with the link to the newly created page.
+Ensure the chapter folder name is devoid of special characters. For instance, the folder for the "Astronomy/Geography" chapter should be named "AstronomyGeography".
 
-You may also be interested in our:
-[Code of Conduct](CODE_OF_CONDUCT.md)
+If you've added new content, please update the README with a link to the newly created page.
+
+We value a respectful and collaborative environment. Before contributing, please familiarize yourself with our [Code of Conduct](CODE_OF_CONDUCT.md).
