@@ -1,24 +1,29 @@
 # Question:
-How to pass knowledge to the postapocalyptical civilisation?
+How can we pass knowledge to a post-apocalyptic civilization?
 
-# Answer: Noah's Ark for knowledge
-Our goal is to create template document which will allow post apocalyptical civilisation continue from where we ended. We assume that no language as we know will be known after apocalypse. Result of our work can be engraved on the stone or be broadcasted via radio. This repository will consist of list of SVG files that will represent each page of the document. Recomended editor is Inkscape. Collaborators are welcome. 
+# Answer: Noah's Ark for Knowledge
+Our objective is to create a template document that will enable a post-apocalyptic civilization to continue from where we left off.
+We're operating under the assumption that no current languages will be known post-apocalypse.
+The outcome of our work can either be engraved in stone or broadcasted via radio.
+This repository will comprise a list of SVG files, each representing a page of the document.
+The recommended editor for these files is Inkscape.
+Collaborators are welcome to contribute.
 
-### Topics coverage progress
+### Topics Coverage Progress
 ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8% (6/76)
 
 # Index
-## Math:
+## Mathematics:
 
-1. [Concept of numbers - arabic numbers](Math/1.%20Concept%20of%20numbers%20-%20arabic%20numbers.svg)
-2. [Plus and equals signs - addition](Math/2.%20Plus%20and%20equals%20signs%20-%20addition.svg)
-3. [Minus sign - substraction](Math/3.%20Minus%20sign%20-%20substraction.svg)
+1. [Concept of numbers - Arabic numerals](Math/1.%20Concept%20of%20numbers%20-%20arabic%20numbers.svg)
+2. [Addition - Plus and equals signs](Math/2.%20Plus%20and%20equals%20signs%20-%20addition.svg)
+3. [Subtraction - Minus sign](Math/3.%20Minus%20sign%20-%20substraction.svg)
 4. Multiplication
 5. Division
 6. [Decimal fractions](Math/6.%20Decimal%20fractions.svg)
 7. [Metric prefixes](Math/7.%20Metric%20prefixes.svg)
-8. [Concept of length - units](Math/8.%20Concept%20of%20length%20-%20units.svg)
-9. Orthographic multiview projection - human + other examples
+8. [Concept of length and its units](Math/8.%20Concept%20of%20length%20-%20units.svg)
+9. Orthographic multiview projection - human and other examples
 
 ## Physics:
 
@@ -35,16 +40,16 @@ Our goal is to create template document which will allow post apocalyptical civi
 
 ## Biology:
 
-1. DNA
+1. DNA structure
 2. Genetic algorithm
-3. Common drugs
+3. Common medicinal drugs
 
-## Astronomy/Geography:
+## Astronomy & Geography:
 
-1. Map and shape of the Earth
-2. Map of the Solar System
-3. Map of the Milky Way
-4. Map of the Observable Universe
+1. Earth's map and shape
+2. Solar System map
+3. Milky Way map
+4. Observable Universe map
 
 ## Technology
 
@@ -100,15 +105,14 @@ Our goal is to create template document which will allow post apocalyptical civi
 
 ## History
 
-1. Countries
-2. Wars
-3. Religion
+1. Overview of countries
+2. Major wars
+3. Religions
 4. Cause of the extinction
 
-# Other documents for this project
+# Additional Documents for this Project
 [LICENSE](LICENSE) A public domain license.
 
-[CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) Code of conduct.
+[CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) Our code of conduct.
 
-[CONTRIBUTING](CONTRIBUTING.md) Short contributing recommendations.
-
+[CONTRIBUTING](CONTRIBUTING.md) Brief guidelines for contributors.
