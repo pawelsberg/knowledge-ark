@@ -15,14 +15,14 @@ Collaborators are welcome to contribute.
 # Index
 ## Mathematics:
 
-1. [Concept of numbers - Arabic numerals](Math/1.%20Concept%20of%20numbers%20-%20arabic%20numbers.svg)
-2. [Addition - Plus and equals signs](Math/2.%20Plus%20and%20equals%20signs%20-%20addition.svg)
-3. [Subtraction - Minus sign](Math/3.%20Minus%20sign%20-%20substraction.svg)
+1. [Concept of numbers - Arabic numerals](Math/Concept%20of%20numbers%20-%20Arabic%20numerals.svg)
+2. [Addition - Plus and equals signs](Math/Addition%20-%20Plus%20and%20equals%20signs.svg)
+3. [Subtraction - Minus sign](Math/Subtraction%20-%20Minus%20sign.svg)
 4. Multiplication
 5. Division
-6. [Decimal fractions](Math/6.%20Decimal%20fractions.svg)
-7. [Metric prefixes](Math/7.%20Metric%20prefixes.svg)
-8. [Concept of length and its units](Math/8.%20Concept%20of%20length%20-%20units.svg)
+6. [Decimal fractions](Math/Decimal%20fractions.svg)
+7. [Metric prefixes](Math/Metric%20prefixes.svg)
+8. [Concept of length and its units](Math/Concept%20of%20length%20and%20its%20units.svg)
 9. Orthographic multiview projection - human and other examples
 
 ## Physics:
